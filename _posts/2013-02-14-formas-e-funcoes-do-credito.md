@@ -1,0 +1,16 @@
+---
+layout: default
+title: Formas e funções do crédito
+---
+
+#{{ page.title }}
+
+Não tencionamos evidentemente, longe disso, fornecer aqui uma lista exaustiva das múltiplas formas de concessão de crédito. Será até mais o que fica por dizer do que aquilo que referimos expressamente; mas compreende-se decerto que as opções a que obriga qualquer mera introdução, como esta, implicam sempre o sacrifício de vários aspectos muito importantes e mesmo actuais.
+
+Entre estes figura a desintermediação financeira, a qual, para os efeitos classificatórios que agora nos ocupam, poderia levar a distinguir entre o crédito feito por intermédio daqueles agentes económicos que justamente se designam intermediários financeiros e cuja função é colectar a poupança (depósitos) para a distribuir sob a forma de créditos, por um lado, e, por outro, o crédito directo assim como o crédito desintermediado. Estes dispensam, obviamente, o concurso das instuições financeiras e realizam-se antes: o crédito directo no quadro das relações de negócios (crédito comercial) ou mesmo fora desse quadro (crédito entre empresas); o crédito desintermediado propriamente dito realiza-se na relação directa entre aforradores e investidores nos mercados financeiros de títulos.
+
+Pelo menos até aos dias mais recentes, a desintermediação tem crescido de forma apreciável: seja porque as maiores empresas passaram a oferecer aos clientes formas atractivas de crédito, inclusive ao consumo, e passaram também, na vertente da procura de crédito, a financiar-se directamente no mercado de capitais; seja porque os investidores institucionais e em geral os grandes aforradores aplicam muitos dos seus recursos em produtos não bancários (por exemplo, as unidades de participação em fundos de investimento); seja finalmente porque os próprios pequenos aforradores também não deixam de ter alternativas fora do sistema financeiro para colocação das suas poupanças (por exemplo, entre nós, no crédito público titulado em certificados de aforro cuja remuneração tem competido com a dos depósitos bancários).
+
+Note-se de passagem que este fenómeno da desintermediação, desencadeado nos anos 80, parece começar a esmorecer. Por outro lado, verifica-se também que os próprios bancos participam activamente (decerto porque nisso estão interessados) na desintermediação. Assim, a título de exemplo, colaboram na colocação, junto do público ou dos respectivos clientes, dos «produtos» financeiros alternativos aos seus; prestam garantias aos aforradores-investidores, assegurando a solvabilidade das entidades que emitem aqueles «produtos»; e criam até sociedades que se dedicam a actividades de desintermediação (como sucede com os fundos de investimento e outros).
+
+Fiéis, porém, ao propósito de simplificar a exposição, avançaremos de nos próximos artigos para a descrição das formas de crédito mais correntes, advertindo apenas que é essencialmente ao crédito bancário, e não desintermediado, que se reportam as classificações de que se cuida aqui.
