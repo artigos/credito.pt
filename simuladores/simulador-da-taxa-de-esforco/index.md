@@ -1,0 +1,29 @@
+---
+layout: default
+title: Simulador da taxa de esforço
+---
+
+#{{ page.title }}
+
+##O simulador da taxa de esforço mensal é uma ferramente bastante útil principalmente se está a pensar em consolidar os seus créditos.
+
+Poderá calcular qual a sua taxa de esforço, ou por outras palavras, qual o seu endividamento mensal para depois poder optar por uma solução que consolide os seus créditos e com isso reduza a sua taxa de esforço mensal.
+
+Brevemente.
+
+<!--
+
+Rendimento Líquido Mensal:
+Despesas Anuais Gerais:
+Despesas Mensais Gerais:
+Mensalidade do Crédito Habitação:
+Mensalidade do Crédito Automóvel:
+Mensalidade do Crédito Pessoal:
+Mensalidade do Crédito Obras:
+Mensalidade do Cartão de Crédito:
+Mensalidade de Outros Créditos:
+Total de gastos mensais:
+
+Taxa de Esforço:
+
+-->
