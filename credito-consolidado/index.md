@@ -24,6 +24,6 @@ overview: true
     } catch(e) {}
   </script>
   <noscript>
-    <iframe src="http://action.metaffiliation.com/trk.php?maff=N417644C3211210" width="300" height="250" frameborder="0" scrolling="no"></iframe>
+    <iframe src="http://action.metaffiliation.com/trk.php?maff=N417644C3211210" width="300" height="250" frameborder="0" scrolling="no">&nbsp;</iframe>
   </noscript>
 </div>
