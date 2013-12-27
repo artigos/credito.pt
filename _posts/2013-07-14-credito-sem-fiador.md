@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Crédito sem fiador
+categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
 #{{ page.title }}

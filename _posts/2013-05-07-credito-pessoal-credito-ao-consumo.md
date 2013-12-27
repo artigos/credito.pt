@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Crédito pessoal &mdash; crédito ao consumo
+categories: pessoal
 ---
 
 #{{ page.title }}

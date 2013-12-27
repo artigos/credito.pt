@@ -1,6 +1,7 @@
 ---
 layout: default
 title: O que é o leasing?
+categories: automovel
 ---
 
 #{{ page.title }}

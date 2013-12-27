@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Noção e espécies de crédito
+categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
 #{{ page.title }}

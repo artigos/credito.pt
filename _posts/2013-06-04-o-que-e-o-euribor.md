@@ -1,6 +1,7 @@
 ---
 layout: default
 title: O que é o Euribor?
+categories: [habitacao]
 ---
 
 #{{ page.title }}

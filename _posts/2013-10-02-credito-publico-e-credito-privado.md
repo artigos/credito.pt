@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Crédito público e crédito privado
+categories: [pessoal]
 ---
 
 #{{ page.title }}

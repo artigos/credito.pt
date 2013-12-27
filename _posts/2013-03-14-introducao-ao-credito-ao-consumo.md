@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Introdução ao crédito ao consumo
+categories: pessoal
 ---
 
 #{{ page.title }}

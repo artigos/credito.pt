@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Simulador de juros barclaycard
+categories: [cartao]
 ---
 
 #{{ page.title }}

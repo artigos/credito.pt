@@ -1,6 +1,7 @@
 ---
 layout: default
 title: A publicidade e o crédito
+categories: pessoal
 ---
 
 #{{ page.title }}

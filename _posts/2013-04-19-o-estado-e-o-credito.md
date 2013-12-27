@@ -1,6 +1,7 @@
 ---
 layout: default
 title: O estado e o crédito
+categories: pessoal
 ---
 
 #{{ page.title }}

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Importância do crédito
+categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
 #{{ page.title }}

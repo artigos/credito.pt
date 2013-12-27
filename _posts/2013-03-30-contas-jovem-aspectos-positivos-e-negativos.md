@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contas-jovem, aspectos positivos e negativos
+categories: pessoal
 ---
 
 #{{ page.title }}

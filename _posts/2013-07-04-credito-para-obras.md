@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Crédito para obras
+categories: [habitacao]
 ---
 
 #{{ page.title }}

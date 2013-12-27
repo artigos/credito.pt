@@ -1,6 +1,7 @@
 ---
 layout: default
 title: O negócio de crédito e as operações bancárias
+categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
 #{{ page.title }}

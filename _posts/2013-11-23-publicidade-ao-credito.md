@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Simulador de juros barclaycard
+title: Publicidade ao Crédito
+categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
 #{{ page.title }}

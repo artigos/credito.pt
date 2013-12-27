@@ -1,6 +1,7 @@
 ---
 layout: default
 title: O percurso do crédito &mdash; do pedido à assinatura do contrato
+categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
 #{{ page.title }}

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sobreendividamento
+categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
 #{{ page.title }}

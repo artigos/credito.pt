@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Conta-ordenado &mdash; crédito ao consumo
+categories: pessoal
 ---
 
 #{{ page.title }}

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: As instituições de crédito
+categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
 #{{ page.title }}

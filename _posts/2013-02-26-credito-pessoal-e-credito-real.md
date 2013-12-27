@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Crédito pessoal e crédito real
+categories: pessoal
 ---
 
 #{{ page.title }}

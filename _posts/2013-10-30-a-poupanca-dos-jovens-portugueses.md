@@ -1,6 +1,7 @@
 ---
 layout: default
 title: A poupança dos jovens portugueses
+categories: [pessoal]
 ---
 
 #{{ page.title }}

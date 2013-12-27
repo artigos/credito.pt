@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ferramentas online e software de investimento
+categories: [pessoal]
 ---
 
 #{{ page.title }}

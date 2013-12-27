@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Análise das estratégias dos bancos nos jovens
+categories: pessoal
 ---
 
 #{{ page.title }}

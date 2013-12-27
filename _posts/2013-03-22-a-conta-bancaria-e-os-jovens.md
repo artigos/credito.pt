@@ -1,6 +1,7 @@
 ---
 layout: default
 title: A conta bancária e os jovens
+categories: pessoal
 ---
 
 #{{ page.title }}

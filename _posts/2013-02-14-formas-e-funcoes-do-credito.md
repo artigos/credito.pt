@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Formas e funções do crédito
+categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
 #{{ page.title }}

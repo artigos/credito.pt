@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Crédito à produção e crédito ao consumo
+categories: pessoal
 ---
 
 #{{ page.title }}

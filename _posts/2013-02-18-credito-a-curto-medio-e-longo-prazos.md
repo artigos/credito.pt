@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Crédito a curto, médio e longo prazos
+categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
 #{{ page.title }}

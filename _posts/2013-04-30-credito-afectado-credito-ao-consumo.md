@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Crédito afectado, crédito ao consumo
+categories: pessoal
 ---
 
 #{{ page.title }}

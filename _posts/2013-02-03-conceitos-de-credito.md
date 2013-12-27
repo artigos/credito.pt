@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Conceitos de crédito
+categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
 #{{ page.title }}

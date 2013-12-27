@@ -1,6 +1,7 @@
 ---
 layout: default
 title: A poupança
+categories: pessoal
 ---
 
 #{{ page.title }}

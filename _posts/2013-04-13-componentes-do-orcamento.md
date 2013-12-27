@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Componentes do orçamento
+categories: pessoal
 ---
 
 #{{ page.title }}

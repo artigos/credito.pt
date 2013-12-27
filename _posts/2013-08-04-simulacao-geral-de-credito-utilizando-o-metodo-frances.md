@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Simulação geral de crédito, utilizando o método Francês
+categories: [pessoal, automovel, habitacao]
 ---
 
 #{{ page.title }}

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cartões de crédito &mdash; crédito ao consumo
+categories: [pessoal, cartao]
 ---
 
 #{{ page.title }}

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Alguns conselhos para manter o orçamento equilibrado
+categories: pessoal
 ---
 
 #{{ page.title }}

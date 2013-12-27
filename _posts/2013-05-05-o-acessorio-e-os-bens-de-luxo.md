@@ -1,6 +1,7 @@
 ---
 layout: default
 title: O acessório e os bens de luxo
+categories: pessoal
 ---
 
 #{{ page.title }}

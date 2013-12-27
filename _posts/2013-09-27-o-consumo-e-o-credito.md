@@ -1,6 +1,7 @@
 ---
 layout: default
 title: O consumo e o crédito
+categories: [pessoal]
 ---
 
 #{{ page.title }}

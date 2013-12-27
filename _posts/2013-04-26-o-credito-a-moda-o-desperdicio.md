@@ -1,6 +1,7 @@
 ---
 layout: default
 title: O crédito, a moda, o desperdício
+categories: pessoal
 ---
 
 #{{ page.title }}

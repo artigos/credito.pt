@@ -1,6 +1,7 @@
 ---
 layout: default
 title: O crédito não pode ser pedido de ânimo leve, informe-se primeiro!
+categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
 #{{ page.title }}

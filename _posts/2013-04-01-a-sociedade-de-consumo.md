@@ -1,6 +1,7 @@
 ---
 layout: default
 title: A sociedade de consumo
+categories: pessoal
 ---
 
 #{{ page.title }}

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Taxas Euribor
+categories: [habitacao]
 ---
 
 #{{ page.title }}

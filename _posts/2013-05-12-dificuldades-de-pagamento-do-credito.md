@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dificuldades de pagamento do crédito
+categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
 #{{ page.title }}

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Descoberto bancário &mdash; crédito ao consumo
+categories: [pessoal]
 ---
 
 #{{ page.title }}

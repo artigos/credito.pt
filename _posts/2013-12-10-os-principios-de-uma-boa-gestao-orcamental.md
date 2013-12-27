@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Os princípios de uma boa gestão orçamental
+categories: [pessoal]
 ---
 
 #{{ page.title }}

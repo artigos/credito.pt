@@ -1,6 +1,7 @@
 ---
 layout: default
 title: O crédito nos provérbios
+categories: pessoal
 ---
 
 #{{ page.title }}

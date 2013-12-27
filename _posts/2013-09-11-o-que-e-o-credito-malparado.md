@@ -1,6 +1,7 @@
 ---
 layout: default
 title: O que é o crédito malparado?
+categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
 #{{ page.title }}
