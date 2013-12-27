@@ -18,12 +18,5 @@ overview: true
 
 <span class="latest-article">Crédito automóvel recomendado:</span>
 <div class="sponsor">
-  <script type="text/javascript">
-    try {
-      new __trknanapub("S499BF4C321197");
-    } catch(e) {}
-  </script>
-  <noscript>
-    <iframe src="http://action.metaffiliation.com/trk.php?maff=N499BF4C321197" width="300" height="250" frameborder="0" scrolling="no"></iframe>
-  </noscript>
+  <iframe src="http://action.metaffiliation.com/trk.php?maff=N499BF4C321197" width="300" height="250" frameborder="0" scrolling="no"></iframe>
 </div>
