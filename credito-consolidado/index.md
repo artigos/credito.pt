@@ -18,12 +18,5 @@ overview: true
 
 <span class="latest-article">Crédito consolidado recomendado:</span>
 <div class="sponsor">
-  <script type="text/javascript">
-    try {
-      new __trknanapub("S417644C3211210");
-    } catch(e) {}
-  </script>
-  <noscript>
-    <iframe src="http://action.metaffiliation.com/trk.php?maff=N417644C3211210" width="300" height="250" frameborder="0" scrolling="no">&nbsp;</iframe>
-  </noscript>
+  <iframe src="http://action.metaffiliation.com/trk.php?maff=N417644C3211210" width="300" height="250" frameborder="0" scrolling="no">&nbsp;</iframe>
 </div>
