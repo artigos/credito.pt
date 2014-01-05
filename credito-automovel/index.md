@@ -13,10 +13,3 @@ overview: true
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-<hr/>
-
-<span class="latest-article">Crédito automóvel recomendado:</span>
-<div class="sponsor">
-  <iframe src="http://action.metaffiliation.com/trk.php?maff=N499BF4C321197" width="300" height="250" frameborder="0" scrolling="no"></iframe>
-</div>
