@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Como funciona o _plafond_ do cartão de crédito
+title: Como funciona o plafond do cartão de crédito
 categories: [cartao]
 ---
 
