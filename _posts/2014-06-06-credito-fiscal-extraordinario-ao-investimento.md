@@ -24,7 +24,7 @@ As características do investidor não são muito preocupantes, ou seja, não é
 
 ##Obrigação do sujeito que pretende usufruir do crédito
 
-O sujeito que pretende obter a aprovação do crédito deverá justificar a dedução fiscal, ou seja, deverá apresentar um documento onde exponha as seguintes situações: identificação discriminada das despesas de investimento elegíveis; o montante das despesas; podendo acrescentar outros elementos que sejam considerados relevantes. Este documento deverá ser integrado no Dossier Discal previsto pelo art.o 130o do Código do IRC.
+O sujeito que pretende obter a aprovação do crédito deverá justificar a dedução fiscal, ou seja, deverá apresentar um documento onde exponha as seguintes situações: identificação discriminada das despesas de investimento elegíveis; o montante das despesas; podendo acrescentar outros elementos que sejam considerados relevantes. Este documento deverá ser integrado no Dossier Discal previsto pelo art.º 130º do Código do IRC.
 
 É importante salientar que no caso de incumprimento das regras de elegibilidade das despesas de investimento deverá ser reposta a totalidade do montante de imposto que deixou de ser liquidado em virtude da aplicação de incentivo, tendo ainda que ser pago os juros correspondentes, sendo que estes são pagos a 15 pontos percentuais.
 
