@@ -24,9 +24,9 @@ __Conheça a oferta:__
 * **Crédito Pessoal Caixazul** - Um empréstimo pessoal onde poderá utilizar o valor onde pretender. Exclusivo cliente Caixaazul. TAEG de 13,1%
 * **Formula U** - Empréstimo para compra de automóvel ou mota. Dispõe de opção de compra com TAEG de 10,8% ou Leasing com uma taxa de 5,0%
 * **Crédito Energias Renováveis** - A Caixa oferece também empréstimos para a utilização de energias renováveis. Estes créditos são feitos em conjunto com as entidades gestoras e beneficiam de TAEG mais baixas.
-** __EDP__ - Empréstimo para aquisição e instalação de coletores solares (térmicos e fotovoltaicos) com parceria com EDP. TAEG de 4,6%.
-** __Yunit__ - Semelhante ao anterior, mas com parceria com a Yunit. TAEG de 4,6%.
-** __Gás Natural__ - Empréstimo para aquisição de equipamentos Comfort Solutions. TAEG de 4,8% para equipamentos solares e de 13,8% para gasodomésticos e aquecimento central.
+* **EDP** - Empréstimo para aquisição e instalação de coletores solares (térmicos e fotovoltaicos) com parceria com EDP. TAEG de 4,6%.
+* **Yunit** - Semelhante ao anterior, mas com parceria com a Yunit. TAEG de 4,6%.
+* **Gás Natural** - Empréstimo para aquisição de equipamentos Comfort Solutions. TAEG de 4,8% para equipamentos solares e de 13,8% para gasodomésticos e aquecimento central.
 
 Note que as ofertas, bem como a TAEG, estão em constante modificação, de forma que deverá consultar a Caixa Geral de Depósitos para confirmar as condições.
 
