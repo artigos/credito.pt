@@ -4,9 +4,9 @@ title: Simulação geral de crédito, utilizando o método Francês
 categories: [pessoal, automovel, habitacao]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Simulação geral de crédito, utilizando o método Francês para calcular as respetivas prestações de acordo com o período escolhido.
+## Simulação geral de crédito, utilizando o método Francês para calcular as respetivas prestações de acordo com o período escolhido.
 
 No cálculo do custo do empréstimo a seguinte fórmula é utilizada:
 

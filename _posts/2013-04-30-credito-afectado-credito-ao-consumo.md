@@ -4,7 +4,7 @@ title: Crédito afectado, crédito ao consumo
 categories: pessoal
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Neste tipo de empréstimos para consumo estão envolvidas duas entidades, para além do consumidor: uma instituição financeira e o fornecedor do bem ou serviço (o comerciante) e funciona do seguinte modo: a instituição financeira paga o valor total da transacção directamente ao fornecedor e fica a receber do consumidor as prestações relativas ao crédito que lhe concedeu sendo as condições da operação equivalentes ao Crédito Pessoal.
 

@@ -4,7 +4,7 @@ title: Simulador de crédito habitação
 categories: [habitacao]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O crédito habitação é um passo muito importante na vida de quem o faz, uma vez que irá acarretar com ele muitas responsabilidades e despesas às quais não se podem falhar.  É claro que todas as pessoas ambicionam ter uma casa delas, concretizando assim um sonho, contudo é muito importante que escolham o melhor crédito habitação para que não sofram com esse novo passo nas suas vidas.
 
@@ -12,7 +12,7 @@ Antes de escolher o crédito habitação é importante ter em consideração que
 
 Todas as entidades financeiras possuem neste momento um local na internet em que poderá pesquisar mais sobre cada um dos créditos, em que possui também uma zona específica para efetuar a simulação do crédito, mas para isso é necessário ter em sua posse alguns dados quer da própria habitação quer os seus. Poderá sempre dirigir-se aos balcões das diferentes entidades e pedir informações sobre os créditos, mas acabará por perder mais tempo e receberá a mesma informação.
 
-##O que precisa para a simulação do crédito?
+## O que precisa para a simulação do crédito?
 
 A simulação do crédito deverá ser o mais completa possível, isto é, quando for fazer a simulação tenha ao seu lado todos os dados da habitação e todos os seus dados pessoais, sendo que existem instituições que só podem o valor do imóvel, existem outras que perguntam muito mais informações, assim evita depois ter de andar à procura dos dados no momento da simulação. A quantidade dos dados que insere poderá ter influência na precisão do simulador, uma vez que terá uma análise completa do tipo de crédito que necessita, isto claro irá variar consoante a instituição bancária, por exemplo, em bancos como a CGD serão pedidas muitas informações sobre a habitação, enquanto em bancos como o Millennium BCP pedirão muito menos informações.
 

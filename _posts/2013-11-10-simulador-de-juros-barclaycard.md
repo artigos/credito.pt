@@ -4,7 +4,7 @@ title: Simulador de juros barclaycard
 categories: [cartao]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Criamos para sua comodidade um simulador de juros para o popular cartão de crédito Barclaycard. Para utilizar o nosso simulador basta colocar o montante total em dívida e o montante que pretende amortizar, de seguida clique em "Calcular Juros Barclaycard" e iremos dar-lhe os juros a pagar no extrato seguinte.
 

@@ -4,17 +4,17 @@ title: Cartão de crédito virtual
 categories: [cartao]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Fazer compras online tem-se revelado uma tendência em crescimento que além de muito cómoda é também, em alguns casos, uma forma de poupar algum dinheiro. No entanto, se realizar as suas encomendas em lojas fora de Portugal vai precisar de ter um cartão de crédito. Para quem não gosta muito da ideia há sempre a opção de criar um cartão de crédito virtual. E é exactamente sobre isso que vamos falar neste artigo.
 
-##Fazer compras online
+## Fazer compras online
 
 Regra geral todas as lojas online fora de Portugal só aceitam pagamentos com cartões de crédito ou então através de Paypal (que também pode pedir cartão de crédito). No entanto, nem todas as pessoas querem ter os encargos associados a um cartão de crédito. Se é esse o seu caso, diga olá ao Mbnet.
 
-##Mbnet – O cartão de crédito virtual
+## Mbnet – O cartão de crédito virtual
 
-###O que é o Mbnet?
+### O que é o Mbnet?
 
 O Mbnet é um serviço que permite a criação de cartões de crédito virtuais com uma determinada duração.
 
@@ -22,7 +22,7 @@ Uma das grandes vantagens do Mbnet é que você pode definir o limite máximo qu
 
 Este cartão de crédito virtual é associado à sua conta corrente e nunca é revelado nenhum tipo de informação sobre si no processo de pagamento.
 
-###Como utilizar e aderir ao Mbnet?
+### Como utilizar e aderir ao Mbnet?
 
 Embora funcione como um cartão de crédito e possa ser utilizado mundialmente, o Mbnet fabrica cartões que são reconhecidos pelas lojas como cartões de crédito quando na realidade não o são.
 

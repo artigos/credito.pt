@@ -4,9 +4,9 @@ title: Crédito público e crédito privado
 categories: [pessoal]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Em sentido restrito, diz-se público o crédito concedido a entidades públicas: Estado, municípios, regiões autónomas, etc.
+## Em sentido restrito, diz-se público o crédito concedido a entidades públicas: Estado, municípios, regiões autónomas, etc.
 
 Mas é também público, evidentemente, o crédito concedido por tais entidades – e acontece que, especialmente depois da revisão constitucional de 1982, ficou esclarecido na nossa lei fundamental que esta última espécie do crédito público (pense-se nos institutos e fundos públicos de fomento económico ou de cooperação internacional, designadamente com as ex-colónias) é sujeita como a outra a controlo político-democrático (parlamentar). Só a primeira espécie referida merece, porém, ser atendida neste lugar.
 

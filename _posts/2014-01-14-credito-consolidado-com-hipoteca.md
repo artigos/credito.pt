@@ -4,23 +4,23 @@ title: Crédito consolidado com hipoteca
 categories: [consolidado]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O crédito consolidado é uma das muitas opções fornecidas pelas instituições financeiras. Este em específico pode ser realizado com ou sem hipoteca.
 
 Neste artigo vamos falar um pouco sobre o crédito consolidado com hipoteca.
 
-##O que é o crédito consolidado?
+## O que é o crédito consolidado?
 
 O crédito consolidado é uma opção que permite reunir todos os seus créditos em apenas um. Desta forma as prestações mensais tendem a baixar e os prazos de pagamento são alargados.
 
 O crédito consolidado pode ser feito com ou sem hipoteca de um bem. Neste caso em específico vamos apenas abordar a variante com hipoteca.
 
-##Em que consiste o crédito consolidado com hipoteca?
+## Em que consiste o crédito consolidado com hipoteca?
 
 O crédito consolidado com hipoteca é uma das modalidades do crédito consolidado. Só que neste caso é necessário criar uma hipoteca sobre determinado bem. De resto esta opção mantem todas as vantagens do crédito consolidado anteriormente referidas.
 
-##O crédito consolidado com hipoteca é uma boa opção?
+## O crédito consolidado com hipoteca é uma boa opção?
 
 Como o próprio nome indica o crédito consolidado com hipoteca obriga a hipotecar um bem para poder ter acesso ao crédito.
 
@@ -32,7 +32,7 @@ Quanto uma pessoa se encontra numa situação em que os empréstimos já são mu
 
 É ainda de salientar que este crédito não se destina apenas a pessoas que estejam com muitas dívidas mas também para quem queira reorganizar e reduzir as suas prestações mensais.
 
-##Desvantagens do crédito consolidado com hipoteca
+## Desvantagens do crédito consolidado com hipoteca
 
 Uma das maiores desvantagens deste tipo de crédito é que, caso entre em incumprimento relativamente aos pagamentos, arrisca-se a ficar sem o bem hipotecado.
 

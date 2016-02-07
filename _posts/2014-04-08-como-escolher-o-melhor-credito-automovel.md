@@ -4,11 +4,11 @@ title: Como escolher o melhor crédito automóvel
 categories: [automovel]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O crédito automóvel é um grande passo na sua vida, com ele poderá garantir a sua independência, deixando de estar dependente de outros para ir onde quer e quando quer, por isso porquê esperar mais para comprar um carro? Vamos com calma, comprar carro é sim um grande passo na sua vida, mas deverá ser tomado com responsabilidade acima de tudo. O crédito automóvel é algo relativamente fácil de conseguir, desde que tenha rendimentos que garantam o pagamento do mesmo, mas não deverá aceitar logo a primeira proposta que tiver.
 
-##Como escolher o crédito automóvel
+## Como escolher o crédito automóvel
 
 Em primeiro lugar deve escolher o carro de que gosta, dentro claro dos valores que deseja pagar, pois não vale a pena tentar escolher o melhor crédito se não sabe qual o automóvel que vai comprar. Quando escolher o automóvel tem duas linhas que poderá seguir, caso o vendedor seja particular, então deverá procurar de imediato um crédito e analisar ao pormenor, caso o vendedor seja um stand então terá mais opções.
 

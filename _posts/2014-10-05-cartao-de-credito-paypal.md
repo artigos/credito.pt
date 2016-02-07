@@ -4,7 +4,7 @@ title: O cartão de crédito do PayPal - Já conhece?
 categories: [pessoal, automovel, habitacao, cartao]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O Paypal é um dos serviços mais utilizados para efetuar pagamentos online. De forma rápida e segura, pode fazer compras e pagar com o seu cartão de crédito sem ter que revelar os seus dados à loja, pois apenas o Paypal saberá os seus dados.
 Além de poder associar o seu cartão de credito a uma conta Paypal, agora o Paypal também disponibiliza um cartão de crédito do Paypal - o Paypal Extras MasterCard. __Fique a conhecê-lo!__

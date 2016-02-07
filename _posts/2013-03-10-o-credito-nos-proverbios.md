@@ -4,7 +4,7 @@ title: O crédito nos provérbios
 categories: pessoal
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 * As tristezas não pagam dívidas (português).
 * O empréstimo é o primogénito da pobreza (africano).

@@ -4,9 +4,9 @@ title: O acessório e os bens de luxo
 categories: pessoal
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##O acessório é um bem sem utilidade real, inútil.
+## O acessório é um bem sem utilidade real, inútil.
 
 É um bem  que ganha sentido no jogo de poder e de sedução, que se estabelece entre ele e  o seu possuidor.
 

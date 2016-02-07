@@ -4,7 +4,7 @@ title: Simulador de crédito Pessoal
 categories: [pessoal]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O crédito pessoal é cada vez mais procurado devido às dificuldades económicas sentidas pelas famílias neste momento de crise, tentando assim recorrer ao crédito como uma salvação de outros problemas. Existem várias entidades financeiras às quais se pode recorrer em um momento mais complicado financeiramente, contudo é muito importante que se escolha a entidade que oferece mais vantagens, adequando-se sempre a cada tipo de situação económica.
 
@@ -12,7 +12,7 @@ Antes de tomar qualquer decisão que seja, consulte sempre todas as opções pos
 
 São muitas as entidades que oferecem a oportunidade de recorrer a este crédito, contudo não se deixe ludibriar pelas fantásticas ofertas logo no primeiro banco que consultar, continue à procura da melhor opção. Uma fantástica forma de o fazer, sem gastar gasolina e demasiado tempo é recorrer aos simuladores online existentes nos websites de cada entidade financeira. Os simuladores para o crédito pessoal são muito mais fáceis e acessíveis do que os simuladores de crédito habitação, por isso conseguirá sem qualquer problema simular o seu crédito e assim escolher a melhor entidade para o fazer.
 
-##Simulador de crédito pessoal
+## Simulador de crédito pessoal
 
 O simulador de crédito pessoal poderá ser encontrado online ou nos balções das entidades financeiras, sendo que será mais fácil fazer as várias simulações na comodidade do seu sofá. Esta simulação irá ajudar a escolher a melhor solução para o seu caso, evitando assim surpresas indesejadas depois de assinar o contrato de crédito. O crédito pessoal poderá ser requisitado por uma ou duas pessoas, sendo que o mais comum é apenas uma pessoa pedir este tipo de crédito, uma vez que é um crédito pessoal.
 

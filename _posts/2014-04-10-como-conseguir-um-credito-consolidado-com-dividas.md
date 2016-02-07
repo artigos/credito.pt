@@ -4,7 +4,7 @@ title: Como conseguir um crédito consolidado, com dívidas
 categories: [consolidado]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O crédito consolidado é um dos métodos mais utilizados para a resolução de problemas financeiros, um pouco mais complicados do que os normais. Este crédito permite consolidar vários créditos em um só, deixando assim de pagar múltiplas prestações começando a pagar apenas uma prestação mensal. Assim conseguirá pagar todos os créditos com os quais se comprometeu e ainda ter uma vida mais facilitada financeiramente, uma vez que o valor das prestações mensais pode reduzir até cerca de 50%.
 
@@ -12,7 +12,7 @@ Muitas são as famílias que deixam acumular dívidas atrás de dívidas, chegan
 
 Conseguir um crédito consolidado poderá ser relativamente fácil, no caso de todas as prestações estarem em dia, uma vez que não terá de mudar banco e ainda reduzirá a prestação pagando menos mensalmente, o que ajudará bastante a recuperar a estabilidade financeira tão desejada. Contudo quando existe um historial de dívidas, sobretudo nos créditos que quer consolidar a situação pode ficar um pouco mais complicada, pois o seu nome está mal visto nos diferentes créditos. O crédito consolidado com dívidas é mais complicado de conseguir, uma vez que é uma pessoa com antecedentes no que toca à falha nos pagamentos dos créditos anteriores. Mas não é impossível conseguir este crédito, terá que se informar muito bem e escolher a melhor opção para si.
 
-##Como conseguir este crédito tendo dívidas
+## Como conseguir este crédito tendo dívidas
 
 A aprovação deste crédito poderá ser a salvação da sua família, uma vez que se tal não acontecer, dificilmente sairá deste ciclo vicioso que são as contas em atraso por isso aplique-se bastante e procure todas as soluções possíveis nos diferentes bancos. Por diversas razões alguns bancos poderão dizer-lhe que para o seu caso não é possível a obtenção deste crédito, mas não desespere, tente outro e outro banco.
 

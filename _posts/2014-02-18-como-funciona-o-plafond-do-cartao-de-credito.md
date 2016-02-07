@@ -4,13 +4,13 @@ title: Como funciona o plafond do cartão de crédito
 categories: [cartao]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Todos os cartões de crédito funcionam através de um _plafond_, ou seja, o valor até ao qual o cliente está autorizado a utilizar. O montante oferecido varia consoante os rendimentos do cliente e não é um valor estático, pelo que pode aumentar com o tempo de utilização do cartão de crédito.
 
 Fique por dentro do funcionamento do _plafond_ do cartão de crédito!
 
-##O que é e como é atribuído o _plafond_ do cartão de crédito
+## O que é e como é atribuído o _plafond_ do cartão de crédito
 
 O _plafond_ do cartão de crédito é o valor máximo que pode ser utilizado pelo cliente. Suponha que tem um _plafond_ de 500€, isto significa que pode ter até 500€ em utilização. No entanto, ao pagar parte do valor utilizado, este volta a estar disponível para utilização.
 
@@ -24,7 +24,7 @@ Ao solicitar um cartão de crédito, a entidade bancária vai ter em conta as se
 
 Com todos estes dados, o banco irá analisar qual o valor máximo que poderão ceder ao cliente. Se for um cliente já antigo do banco e se tiver outros serviços, também poderá ser beneficiado.
 
-##Aumentar o _plafond_ disponível
+## Aumentar o _plafond_ disponível
 
 Caso o _plafond_ que lhe seja atribuído seja inferior ao pretendido, pode pedir a reavaliação ao seu banco. Apesar de ser possível aumentar o _plafond_, é preferível fazê-lo algum tempo após ser cliente e utilizar o cartão. Alguns bancos aumentam o _plafond_ após algum tempo de utilização mesmo que o cliente não o solicite.
 
@@ -36,7 +36,7 @@ Veja quais as caraterísticas importantes para ter sucesso:
 * __Utilização moderada a intensiva do cartão__ - Quanto maior o uso que der ao cartão, mais juros pagará e mais o banco lucrará. Será mais provável que queiram aumentar o _plafond_ para aumentarem os seus próprios rendimentos.
 * __Antiguidade__ - A antiguidade é algo que os bancos têm sempre em consideração. Quanto mais tempo for cliente sem incidentes, mais facilmente conseguirá um aumento de _plafond_.
 
-##Ter vários cartões de crédito para aumentar o valor disponível
+## Ter vários cartões de crédito para aumentar o valor disponível
 
 Uma solução muito utilizada quando não se obtém o _plafond_ pretendido com um só cartão, é efetuar vários cartões de crédito em bancos diferentes, de forma a que a sua soma atinja o valor desejado. Apesar de ser uma técnica muito utilizada, pode tornar-se difícil de gerir os vários cartões e cumprir o pagamento de todos.
 

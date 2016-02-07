@@ -4,9 +4,9 @@ title: Importância do crédito
 categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Desnecessário se torna, com certeza, evidenciar a importância do crédito nos dias de hoje, tanto na economia como nas outras relações sociais.
+## Desnecessário se torna, com certeza, evidenciar a importância do crédito nos dias de hoje, tanto na economia como nas outras relações sociais.
 
 Através do crédito se multiplicam e diversificam as várias actividades económicas, desde a produção ao consumo, tendo sido ele o grande motor da criação e da circulação de bens desde a revolução industrial, que aliás também foi uma revolução financeira. Sem ele, muitos investidores não poderiam criar riqueza, muitos empresários estariam impossibilitados de enfrentar até problemas momentâneos de tesouraria, como os relacionados com encargos salariais ou despesas correntes, e muitos consumidores teriam de adiar, temporária ou mesmo definitivamente, a aquisição de produtos necessários ao seu bem-estar.
 

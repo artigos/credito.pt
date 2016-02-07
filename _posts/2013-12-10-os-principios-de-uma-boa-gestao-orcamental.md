@@ -4,17 +4,17 @@ title: Os princípios de uma boa gestão orçamental
 categories: [pessoal]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Previsão do Orçamento
+## Previsão do Orçamento
 
 É útil fazer uma previsão dos grandes grupos de despesas em termos anuais, mensais ou relativamente a uma actividade futura.
 
-##Gestão do Orçamento
+## Gestão do Orçamento
 
 Para assegurar um controlo das contas, é necessário anotar cada dia o montante dos gastos e das entradas de dinheiro.
 
-##Controlo Orçamental
+## Controlo Orçamental
 
 Para controlar a adequação entre previsão e gestão, é preciso efectuar uma contabilidade rigorosa das despesas. Isto vai permitir:
 
@@ -26,14 +26,14 @@ Para controlar a adequação entre previsão e gestão, é preciso efectuar uma 
 
 No final de cada mês, um quadro recapitulativo permitirá calcular o saldo, que representa a diferença entre os rendimentos e as despesas.
 
-###Se o saldo é positivo
+### Se o saldo é positivo
 
 Permite encarar o orçamento com tranquilidade, podendo até pensar numa ou noutra compra. De qualquer forma deve prever-se uma margem de segurança para as situações mais imprevisíveis.
 
-###Se o saldo é nulo
+### Se o saldo é nulo
 
 Contratar novas obrigações representa um risco. Mais vale ter paciência e fazer algumas poupanças enquanto se espera.
 
-###Se o saldo é negativo
+### Se o saldo é negativo
 
 A prioridade é pagar as contas atrasadas, sendo talvez necessário uma análise familiar da situação e uma reflexão sobre a hipótese de se estar a viver acima dos próprios meios.

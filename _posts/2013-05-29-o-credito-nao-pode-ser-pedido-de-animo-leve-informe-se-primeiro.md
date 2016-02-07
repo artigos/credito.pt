@@ -4,9 +4,9 @@ title: O crédito não pode ser pedido de ânimo leve, informe-se primeiro!
 categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Se chegou até aqui é bom sinal, é sinal que deseja estar informado se está a tomar uma boa decisão ao querer pedir crédito.
+## Se chegou até aqui é bom sinal, é sinal que deseja estar informado se está a tomar uma boa decisão ao querer pedir crédito.
 
 Desde já lhe damos os nossos parabéns, este é o primeiro passo para pedir crédito, INFORMAR-SE.
 
@@ -16,12 +16,12 @@ O crédito não é o bicho de 7 cabeças que muita gente o quer fazer parecer, o
 
 Antes de pedir crédito, pergunte-se a si mesmo:
 
-##1. Irei conseguir pagar as mensalidades do crédito?
+## 1. Irei conseguir pagar as mensalidades do crédito?
 
 Esta é uma pergunta que terá de responder sem qualquer hesitação! Se sente que poderá não conseguir pagar as mensalidades do crédito só tem uma coisa a fazer, __não o pedir__!
-##2. Poderei comprar algo mais acessível?
+## 2. Poderei comprar algo mais acessível?
 
 Por vezes está a utilizar crédito para comprar o mais caro só porque é mais bonito. Contudo, pense, precisa mesmo de gastar tanto dinheiro só por um capricho? Não conseguirá atingir os mesmos objectivos com algo mais em conta?
-##3. Quão rápido poderei pagar este crédito que vou pedir?
+## 3. Quão rápido poderei pagar este crédito que vou pedir?
 
 Quando pede um crédito o objectivo é pagá-lo o mais rapidamente possível. Como deve compreender é muito complicado poupar dinheiro se tem de andar sempre a pagar juros em cima de juros, por isso, tente pagar sempre o crédito da forma mais rápida possível.

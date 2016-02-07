@@ -4,15 +4,15 @@ title: Sobreendividamento
 categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Grande parte das famílias portuguesas recorrem ou já recorreram ao crédito.
+## Grande parte das famílias portuguesas recorrem ou já recorreram ao crédito.
 
 Por esse facto, não significa que se encontrem numa situação difícil, têm dívidas mas têm capacidade financeira para respeitar as sua obrigações financeiras.
 
 Fala-se de sobreendividamento, quando o consumidor não consegue cumprir o conjunto das suas obrigações financeiras: não tem dinheiro para liquidar as prestações dos empréstimos, para pagar a renda da casa, as dívidas fiscais...
 
-##O sobreendividamento não é um problema marginal
+## O sobreendividamento não é um problema marginal
 
 Nalguns países da União Europeia atinge já um número considerável de famílias. Tem repercussões sociais sobre todos os membros da família, seja ao nível da saúde, das relações no seio do casal ou com as crianças,...
 

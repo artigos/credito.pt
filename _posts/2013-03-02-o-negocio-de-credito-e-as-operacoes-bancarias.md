@@ -4,7 +4,7 @@ title: O negócio de crédito e as operações bancárias
 categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Perspectivaremos doravante o crédito de um ponto de vista jurídico, se bem que não pretendamos abandonar a já anunciada intenção de só o abordar num quadro geral e não detalhado de análise.
 Acabamos de verificar que do ponto de vista prático e económico o crédito é um fenómeno multifacetado e em profunda evolução, oferecendo-se ao observador sob formas e com técnicas que umas vezes são realmente novas e outras resultam da modificação de antigas modalidades, sem excluir a mais típica delas que é o contrato de empréstimo.
@@ -16,16 +16,16 @@ Esta diversidade e dinâmica não tem impedido no entanto uma concepção unitá
 * criação de um título de crédito sobre o devedor
 * remuneração (juro).
 
-##Antecipação de um rendimento futuro
+## Antecipação de um rendimento futuro
 
 O primeiro elemento tem a ver com o tempo, pois através do crédito se pode consumir ou investir hoje o que só o rendimento de amanhã permitiria: o crédito é «o traço de união entre o presente e o futuro».
 
-##Confiança
+## Confiança
 
 A confiança explica a privação a que se expõe o credor no presente, por fazer fé na promessa de restituir, ou talvez antes na solvabilidade do devedor. Mas o que poderá talvez aproximar-se deste elemento de fidúcia é o do risco, assumido pelo credor, de não vir a ser reembolsado por via da má fé ou da pura e simples insolvência do devedor. O risco, na verdade, costuma ser apresentado como elemento integrante da própria definição do crédito.
 Esta promessa de restituir, por sua vez, constitui no património do credor — desfalcado daquilo de que está disposto a privar-se no imediato — um activo (título de crédito) que, aliás, pode ser «mobilizado», isto é, negociado e transmitido a terceiro. Assim, o credor mune-se de uma dupla segurança: jurídica, por um lado, enquanto esse activo — «activo financeiro» — lhe permite a prova da promessa ou da operação mesma; económica, por outro lado, na medida em que pode a qualquer momento «realizar» o valor correspondente, obtendo a liquidez de que eventualmente careça.
 
-##Remuneração
+## Remuneração
 
 Por último, o elemento remuneração não traduz mais do que o custo a suportar pelo beneficiário do crédito pelo adiantamento ou abono que lhe é feito por forma a tornar possível imediatamente o consumo ou o investimento que só no futuro teria certamente capacidade financeira para realizar.
 

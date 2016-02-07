@@ -4,9 +4,9 @@ title: O que é o crédito consolidado?
 categories: [consolidado]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##O crédito consolidado é por outras palavras o agregamento de todos os créditos num só.
+## O crédito consolidado é por outras palavras o agregamento de todos os créditos num só.
 
 Este tipo de crédito é essencial se a sua taxa de esforço (poderá calculá-la clicanco aqui) for superior a 30% do rendimento líquido mensal. A nossa calculadora tem ainda em conta as despesas mensais e anuais fixas, este tipo de despesa são importante porque o rendimento total que irá ter disponível para pagar o crédito virá da subtração das mesmas.
 

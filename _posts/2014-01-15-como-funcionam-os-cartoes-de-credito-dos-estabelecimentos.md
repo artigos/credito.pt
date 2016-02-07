@@ -4,7 +4,7 @@ title: Como funcionam os cartões de crédito dos estabelecimentos
 categories: [cartao]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Além dos cartões de crédito habituais, como o dos bancos tradicionais ou entidades bancárias como o Barclaycard, existem ainda cartões de crédito que estão associados a determinadas lojas.
 
@@ -12,7 +12,7 @@ Existem já cartões associados a lojas de mobiliário, de tecnologia/eletrodom�
 
 Sabe como funcionam estes cartões?
 
-##Cartões de crédito dedicados a estabelecimentos
+## Cartões de crédito dedicados a estabelecimentos
 
 Com a maior difusão dos cartões de crédito, começam a surgir os cartões de crédito associados a determinadas lojas.
 
@@ -20,7 +20,7 @@ Se começaram por estabelecimentos onde o cliente poderia gastar grandes quantia
 
 Quase todas as grandes cadeias comerciais dispõem deste serviço.
 
-##Onde posso usar estes cartões?
+## Onde posso usar estes cartões?
 
 Existem imensos tipos de cartões disponíveis e cada um tem as suas caraterísticas.
 
@@ -28,7 +28,7 @@ Enquanto que alguns cartões apenas podem ser utilizados no respetivo estabeleci
 
 Antes de optar por um destes cartões de crédito deve verificar onde este pode ser utilizado e qual será a situação mais conveniente para si.
 
-##Quais as diferenças entre um cartão de crédito normal e os próprios dos estabelecimentos
+## Quais as diferenças entre um cartão de crédito normal e os próprios dos estabelecimentos
 
 Se já tem um cartão de crédito, é natural que pretenda saber que vantagens poderá ter ao adquirir a um cartão de crédito dedicado a um estabelecimento.
 
@@ -38,7 +38,7 @@ A grande diferença nestes cartões está na forma de pagamento. Enquanto que nu
 
 Se o cartão de crédito também puder ser utilizado noutros estabelecimentos, acaba por ter um cartão 2 em 1!
 
-##Como aderir ao cartões de crédito dos estabelecimentos
+## Como aderir ao cartões de crédito dos estabelecimentos
 
 A adesão a estes cartões é normalmente feita na loja que o fornece, no entanto, existem alguns estabelecimentos que já permitem realizar o pedido online.
 
@@ -50,7 +50,7 @@ Os dados necessários são os mesmos de um cartão de crédito habitual, logo se
 * 3 últimos recibos de vencimento
 * Último IRS e nota de liquidação
 
-##Vantagens dos cartões de crédito dos estabelecimentos
+## Vantagens dos cartões de crédito dos estabelecimentos
 
 Estes cartões, apesar de não serem tão flexíveis, têm algumas vantagens que deve considerar:
 

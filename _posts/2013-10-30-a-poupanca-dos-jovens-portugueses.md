@@ -4,15 +4,15 @@ title: A poupança dos jovens portugueses
 categories: [pessoal]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Ainda que as estratégias dos bancos relativamente aos jovens adolescentes visem a poupança, eles preocupam-se muito mais em ensinar os jovens a gastar.
+## Ainda que as estratégias dos bancos relativamente aos jovens adolescentes visem a poupança, eles preocupam-se muito mais em ensinar os jovens a gastar.
 
 Por vezes a poupança dos jovens é depositada numa conta bancária pelos pais; outras vezes é simplesmente confiada a um mealheiro. Frequentemente, os dois sistemas coexistem.
 
 Esta poupança é, normalmente, destinada a financiar despesas específicas: computador, aparelho de áudio, pagamento da carta de condução, férias, etc.
 
-##Inquérito do Instituto de Ciências Sociais – 1986/87
+## Inquérito do Instituto de Ciências Sociais – 1986/87
 
 Este estudo pretendeu também analisar as práticas e motivações da poupança dos jovens em 1986/87, período da realização do inquérito.
 
@@ -20,7 +20,7 @@ Foi formulada a pergunta: “procura poupar dinheiro?” e as respostas possíve
 
 A principal constatação foi a de que a maioria dos jovens (cerca de 67%) tinham por hábito poupar, não se verificando diferenças em função das situações sociais. Em função da “situação perante o trabalho” (constituíram-se cinco grupos: estudantes, trabalhadores, trabalhadores/estudantes, desempregados e domésticas,) o grupo dos estudantes era o que menos hábitos de poupança registava (a seguir aos desempregados).
 
-###Razões para poupar
+### Razões para poupar
 
 As razões apontadas, por ordem decrescente de importância, foram:
 
@@ -33,7 +33,7 @@ As razões apontadas, por ordem decrescente de importância, foram:
 
 Em relação aos valores médios, no grupo de “estudantes” ganham importância relativa como objectivos de poupança: “a compra de algu-ma coisa”, “as férias/viagens” e “a oferta de presentes”. Em contrapartida, perdem importância relativa: “para qualquer imprevisto”, por “segurança” e para o futuro (quando casar).
 
-###Razões para não poupar
+### Razões para não poupar
 
 Como se referiu, os níveis de “não-poupança” (os jovens que poupam raramente ou nunca) eram baixos: 27% do total, sendo as seguintes as razões apontadas:
 
@@ -47,11 +47,11 @@ Como se referiu, os níveis de “não-poupança” (os jovens que poupam rarame
 
 Conforme se pode ler no estudo de Luisa Schmidt, a principal razão apontada maioritariamente por todos os jovens é a incapacidade de fazer poupanças, motivo relacionado com o “consumo ” e todas as outras razões apresentam índices percentuais baixos. Entre estas, encontram-se as de cariz mais hedonista (não vale a pena ou o dinheiro é bom para gastar logo) e as de tónica mais ética (dou pouca importância ao dinheiro) ou ainda as mais pragmáticas (não tem dinheiro ou ele nunca falta).
 
-##Sondagem do Observatório do Comércio – 1999
+## Sondagem do Observatório do Comércio – 1999
 
 Os resultados desta sondagem apontam também no sentido de uma elevada tendência dos jovens para a realização de poupanças: 73,4% “fazem alguma poupança”, sendo os hábitos de poupança idênticos para os três grupos etários considerados: 12/14 anos, 15/18 anos e 19/25 anos.
 
-###Razões para poupar:
+### Razões para poupar:
 
 * para o caso de surgir necessidade (39,6% das respostas);
 * para o futuro (15,0%);
@@ -66,11 +66,11 @@ Os resultados desta sondagem apontam também no sentido de uma elevada tendênci
 
 Como se referiu anteriormente, a utilização de metodologias diferentes impede a comparação dos resultados desta sondagem com os do inquérito do ICS, permitindo apenas captar algumas tendências.
 
-###Diferentes tipos de poupança
+### Diferentes tipos de poupança
 
 Distinguem-se vários tipos de poupança consoante a finalidade: precaução, projecto, previdência.
 
-###A poupança “precaução”
+### A poupança “precaução”
 
 O bom senso recomenda a criação de uma reserva de segurança. É preciso acautelar imprevistos sem pôr em risco o equilíbrio do orçamento, sem ter de recorrer sistematicamente ao descoberto bancário em caso de incidente. O montante dessa poupança deve ser previsto no orçamento, pode ser mínimo, mas deve ser considerado como um encargo fixo indispensável.
 
@@ -80,13 +80,13 @@ Paradoxalmente, para uma pessoa com rendimentos reduzidos, este tipo de poupanç
 
 Com um rendimento de 1.000€ por mês é possível liquidar uma despesa imprevista como seja o arranjo do aquecimento ou a compra da máquina de lavar roupa. Para um rendimento mensal de 500€, é mais difícil fazer face a estas despesas.
 
-###A poupança “projecto”
+### A poupança “projecto”
 
 Pode poupar-se tendo em vista a concretização de um projecto, como seja uma viagem, compra de casa, etc.
 Para possibilitar a prossecução deste objectivo é aconselhável constituir-se mensalmente uma poupança de montante fixo.
 
 O suporte financeiro adequado para este tipo de poupança deverá ser diferente da poupança criada como precaução, ou seja uma poupança menos líquida mas mais rentável (ex.: depósitos a prazo, fundos de investimento).
 
-###A poupança “previdência”
+### A poupança “previdência”
 
 É uma poupança a longo prazo cuja prioridade é a segurança, o rendimento e as vantagens fiscais (PPR, Fundos de Pensões).

@@ -4,13 +4,13 @@ title: Crédito pessoal &mdash; crédito ao consumo
 categories: pessoal
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Crédito disponibilizado na conta de Depósitos à Ordem, que pode ser gerido em função das necessidades de cada um.
+## Crédito disponibilizado na conta de Depósitos à Ordem, que pode ser gerido em função das necessidades de cada um.
 
 Destina-se a financiar, à partida , qualquer tipo de bens ou serviços, nomeadamente: obras em casa, mobílias, viagens, despesas de saúde, equipamento informático, etc.
 
-##O custo de um crédito pessoal
+## O custo de um crédito pessoal
 
 Como vimos anteriormente, a aquisição de um bem de consumo através do recurso ao crédito bancário tem custos que vão para além dos juros.
 

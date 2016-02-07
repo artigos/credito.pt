@@ -4,7 +4,7 @@ title: Crédito automóvel credibom
 categories: [automovel]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Todas as pessoas têm alguns objetivos na vida. Algumas sonham em comprar casa própria, outras em ter o seu carro e ainda há algumas que ambicionam ambas as componentes.
 
@@ -14,7 +14,7 @@ Várias foram e são as entidades que fizeram desta necessidade do mercado a sua
 
 Assim sendo, neste artigo vou falar sobre o crédito automóvel credibom para que fique um pouco mais informado sobre esta opção.
 
-##Conheça o credibom
+## Conheça o credibom
 
 O credibom é uma instituição financeira que desde cedo se dedicou à concessão de créditos. Neste momento existem várias opções. Nomeadamente:
 
@@ -25,13 +25,13 @@ O credibom é uma instituição financeira que desde cedo se dedicou à concess�
 * Credibom decoração;
 * Credibom eletrodomésticos.
 
-##Em que consiste o crédito automóvel credibom?
+## Em que consiste o crédito automóvel credibom?
 
 O crédito automóvel credibom distingue-se pela sua rapidez e comodidade e também pelo facto de não o obrigar a fazer um seguro automóvel com cobertura de danos próprios. Apenas este ponto já representa uma grande poupança. Uma vez que este seguro é o mais caro do mercado.
 
 As taxas e encargos do crédito automóvel credibom variam consoante o montante, prazo, ano do carro e as oscilações do mercado.
 
-##Quais são as vantagens do crédito automóvel credibom?
+## Quais são as vantagens do crédito automóvel credibom?
 
 O crédito pessoal credibom tem vantagens muito atrativas para os seus clientes. Por exemplo:
 
@@ -45,7 +45,7 @@ O crédito pessoal credibom tem vantagens muito atrativas para os seus clientes.
 * Tem a possibilidade de subscrever a Incapacidade Temporária e Desemprego Involuntário ao Seguro de Vida;
 * Este crédito não é complicado e prima pela sua rapidez e comodidade.
 
-##Não deixe que a simulação lhe passe ao lado
+## Não deixe que a simulação lhe passe ao lado
 
 A simulação é um passo muito importante que não deve ser ignorado. O credibom tem um simulador no seu site que pode utilizar facilmente. Basta que selecione o tipo de crédito (neste caso automóvel), coloque o ano do veículo, montante e o prazo pretendido. Depois disso basta pedir a sua simulação.
 

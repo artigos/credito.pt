@@ -4,9 +4,9 @@ title: A poupança
 categories: pessoal
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Para organizar qualquer actividade, quer se seja jovem ou  não, é importante ter um orçamento equilibrado.
+## Para organizar qualquer actividade, quer se seja jovem ou  não, é importante ter um orçamento equilibrado.
 
 Trata-se de estabelecer e manter um equilíbrio entre os rendimentos e as despesas e principalmente viver o melhor possível com o dinheiro que se tem.
 

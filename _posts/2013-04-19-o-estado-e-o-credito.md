@@ -4,9 +4,9 @@ title: O estado e o crédito
 categories: pessoal
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##No plano económico, o Estado assegura duas grandes funções: a primeira é fornecer serviços públicos (Saúde, Educação, Segurança, entre outros) que irão satisfazer as necessidades colectivas e a segunda é a função de transferência de rendimentos ou redistribuição.
+## No plano económico, o Estado assegura duas grandes funções: a primeira é fornecer serviços públicos (Saúde, Educação, Segurança, entre outros) que irão satisfazer as necessidades colectivas e a segunda é a função de transferência de rendimentos ou redistribuição.
 
 O Estado cobra impostos às famílias e às empresas e redistribui sob diversas formas.
 

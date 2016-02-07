@@ -4,7 +4,7 @@ title: Como usar um cartão de crédito sem pagar juros
 categories: [cartao]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Usufruir de um empréstimo ou crédito sem pagar juros é o sonho de todos nós, no entanto, também não é comum nem fácil de conseguir.
 
@@ -14,7 +14,7 @@ No entanto, como forma de cativar clientes, alguns cartões de crédito oferecem
 
 Veja de que forma o poderá conseguir.
 
-##A regra dos 50 dias
+## A regra dos 50 dias
 
 50 Dias é o prazo que tem para pagar a 100% o valor em dívida para que não tenha que pagar juros sobre esse valor.
 Veja como funciona:
@@ -29,13 +29,13 @@ Note que as compras que efetuar antes do fecho do extrato terão que ser pagas n
 
 Se pretende obter os 50 dias de crédito sem juros, deve utilizar o valor logo após o fecho de um extrato.
 
-##Pagar o cartão de crédito sempre a 100%
+## Pagar o cartão de crédito sempre a 100%
 
 Idealmente, pagar um cartão de crédito sempre a 100% é a opção mais vantajosa para si. Além de nunca pagar juros, tem sempre a certeza de que nunca gastará mais do que o ideal tendo em conta o seu orçamento familiar.
 
 Caso não tenha hipótese de pagar a 100% num mês, tente compensar no mês seguinte, para que não perca a oportunidade de poder utilizar crédito sem juros. Recorde-se também que quando efetuar o pagamento, deve também acrescer os juros se for caso disso.
 
-##Cartões de crédito sem juros promocionais
+## Cartões de crédito sem juros promocionais
 
 Muitas vezes os cartões de créditos dedicados a lojas, como os cartões de crédito da Worten, Jumbo, Fnac, etc., têm campanhas em que possibilitam a compra de equipamentos sem acréscimo de juros.
 

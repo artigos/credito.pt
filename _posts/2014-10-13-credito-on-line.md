@@ -4,7 +4,7 @@ title: Crédito on line - Como funciona
 categories: [pessoal]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O crédito on line é uma das mais modernas formas para obter um crédito. Sem ter que se deslocar a um banco e sem necessitar de falar telefonicamente com ninguém, é uma forma simples e não intrusiva de se conseguir um empréstimo.
 Tudo feito através da internet, pode conseguir o seu crédito em apenas 2 ou 3 dias úteis, com o mínimo trabalho possível.

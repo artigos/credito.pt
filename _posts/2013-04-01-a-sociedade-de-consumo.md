@@ -4,9 +4,9 @@ title: A sociedade de consumo
 categories: pessoal
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Em termos muito gerais o sistema económico pode ser definido como um conjunto de mecanismos económicos da sociedade.
+## Em termos muito gerais o sistema económico pode ser definido como um conjunto de mecanismos económicos da sociedade.
 
 Estes mecanismos determinam a forma como as forças produtivas (recursos materiais e humanos) são postos em acção (relações de produção), por quem (sector público ou privado e os trabalhadores), e com que objectivos (repartição planificada, maximização do lucro ou autarcia).
 

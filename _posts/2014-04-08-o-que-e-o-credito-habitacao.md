@@ -4,13 +4,13 @@ title: O que é o crédito habitação?
 categories: [habitacao]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O crédito habitação é o crédito mais requisitado de todos, uma vez que a habitação é um bem necessário para qualquer pessoa, contudo nem sempre existe possibilidade de a pagar por inteiro. Uma habitação é algo que acarreta muitas despesas para quem a compra, desde legalização, ao valor da casa propriamente dita, mobiliário, entre outras despensas indispensáveis quando se compra uma casa, assim o crédito habitação é o método mais fácil e seguro de garantir que consegue adquirir uma casa num espaço de tempo reduzido, quando comparado a outros métodos para o conseguir.
 
 Este tipo de crédito irá ajudar as pessoas a conseguir alcançar o que até então poderia ser apenas um sonho, assim ao recorrer a ele poderá ver-lhe disponibilizado o dinheiro necessário para comprar uma casa, ou ainda para a construção da mesma. Este crédito por norma possui taxas de juro mais baixas do que os restantes créditos e ainda consoante a entidade financeira poderá ter regalias especiais, como por exemplo, para quem comprar a primeira casa.
 
-##Características do crédito habitação
+## Características do crédito habitação
 
 O crédito habitação é algo muito importante na sua vida, uma vez que depois de assinado terá um contrato que durará muitos anos, com um valor muito elevado, por isso nunca descure a procura, a análise profunda de todas as soluções e propostas dos diferentes bancos e da sua própria gestão financeira. Como dito anteriormente este tipo de crédito irá ajudar a garantir o financiamento para projetos que envolvam a sua habitação, ou seja, poderá comprar uma habitação já construída, poderá recorrer a este crédito também para a realização de obras na sua casa, ou então poderá optar por criar tudo de raiz, comprando um terreno e construindo a sua casa a seu gosto.
 

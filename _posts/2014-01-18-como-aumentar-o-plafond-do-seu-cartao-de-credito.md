@@ -4,13 +4,13 @@ title: Como aumentar o plafond do seu cartão de crédito?
 categories: [cartao]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Quando solicita um cartão de crédito a entidade bancária avalia os seus rendimentos e oferece um determinado plafond, no entanto, as suas condições podem mudar e pode requerer um plafond mais alto.
 
 Se pretende aumentar o plafond do seu cartão de crédito, veja os passos para o conseguir.
 
-##Solicitar ao banco a revisão de plafond
+## Solicitar ao banco a revisão de plafond
 
 A solução mais simples é pedir ao banco que efetue a revisão de plafond.
 
@@ -19,7 +19,7 @@ Muitas entidades bancárias já efetuam este processo automaticamente, aumentand
 Se a sua situação económica alterou (aumento de rendimento, etc.), deverá enviar novos comprovativos para a entidade bancária e solicitar a revisão.
 Caso a sua situação não tenha sofrido alterações, mas se sempre cumpriu com os prazos e utilizou frequentemente o cartão, pode pedir a revisão com base nesse comportamento.
 
-##Efetuar simulações noutros bancos
+## Efetuar simulações noutros bancos
 
 Se o seu pedido não for aceite, pode solicitar simulações noutras entidades bancárias. Muitas vezes poderá até encontrar melhores condições do que a sua entidade bancária atual lhe oferece.
 
@@ -31,7 +31,7 @@ Se mudar de entidade bancária, poderá cancelar o seu cartão de crédito antig
 
 Não se recomenda que tenha mais do que um cartão de crédito ativo em simultâneo, para não criar condições para o endividamento.
 
-##Situações que impedem o aumento de plafond
+## Situações que impedem o aumento de plafond
 
 As entidades bancárias têm interesse em aumentar o plafond de um cliente para que este utilize mais valor e pague mais juros. Por esse motivo, o banco não tem por hábito aumentar o plafond a clientes que considera de risco elevado.
 

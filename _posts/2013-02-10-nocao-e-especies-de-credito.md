@@ -4,9 +4,9 @@ title: Noção e espécies de crédito
 categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##O crédito é a cedência da disponibilidade efectiva de um bem, por uma contraprestação futura consistente em um bem análogo ao primeiro.
+## O crédito é a cedência da disponibilidade efectiva de um bem, por uma contraprestação futura consistente em um bem análogo ao primeiro.
 
 Trata-se, portanto, não de uma troca a contado (prestações simultâneas no presente), não também de uma troca a termo (prestações simultâneas no futuro), mas justamente de uma troca a crédito: prestação presente e contraprestação futura.
 Dizendo melhor, trata-se da prestação de um bem presente contra a promessa de restituição futura, em que o credor confia, de um bem equivalente acrescido de certa remuneração.

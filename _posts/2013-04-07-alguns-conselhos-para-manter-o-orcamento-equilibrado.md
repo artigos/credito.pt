@@ -4,9 +4,9 @@ title: Alguns conselhos para manter o orçamento equilibrado
 categories: pessoal
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Face a uma variedade cada vez maior de produtos, o consumidor encontra-se muitas vezes confrontado com um problema de escolha, em função dos limites impostos pelo seu orçamento.
+## Face a uma variedade cada vez maior de produtos, o consumidor encontra-se muitas vezes confrontado com um problema de escolha, em função dos limites impostos pelo seu orçamento.
 
 Há, portanto, necessidade de respeitar determinadas regras:
 

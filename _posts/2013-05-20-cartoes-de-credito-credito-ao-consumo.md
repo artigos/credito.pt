@@ -4,13 +4,13 @@ title: Cartões de crédito &mdash; crédito ao consumo
 categories: [pessoal, cartao]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Os cartões electrónicos, geralmente conhecidos como dinheiro plástico, tornaram-se num dos principais meios de pagamento.
+## Os cartões electrónicos, geralmente conhecidos como dinheiro plástico, tornaram-se num dos principais meios de pagamento.
 
 São emitidos pelas instituições de crédito, por instituições financeiras que estejam autorizadas para o efeito ou por sociedades financeiras que tenham por objecto a emissão desses cartões.
 
-##As funções do cartão de crédito
+## As funções do cartão de crédito
 
 A característica principal dos cartões de crédito é a possibilidade do seu titular efectuar o pagamento de despesas a crédito, nas condições previamente estabelecidas com a entidade emitente. Cada cartão tem um limite de crédito que corresponde ao montante máximo total de crédito que o titular pode utilizar.
 
@@ -18,7 +18,7 @@ Permitem, ainda, o levantamento de dinheiro a crédito (cash-advance) aos balcõ
 
 Quase todos os cartões têm associado um conjunto de serviços, como sejam, seguros (de saúde, de responsabilidade civil e de acidentes pessoais) e esquemas promocionais que associam "pontos" ou "cheques-desconto" à utilização dos cartões.
 
-##Funcionamento
+## Funcionamento
 
 Os cartões de crédito têm um prazo de validade, sendo automaticamente renovados. Por cada ano civil de vigência do contrato será debitada uma anuidade por cada cartão emitido, cujo custo depende da entidade emissora, do tipo de cartão, de se ser primeiro ou segundo titular. A anuidade dos cartões Classic é mais baixa do que a dos Premier e Gold, que são atribuídos a clientes com rendimentos elevados.
 
@@ -39,7 +39,7 @@ Este tipo de crédito exige uma gestão muito atenta porque o  dinheiro tende a 
 
 Corre-se o risco de criar a ilusão de um rendimento superior ao que se tem na realidade e um pequeno descontrolo pode originar situações de atraso ou mesmo incapacidade de pagamento.
 
-##Em caso de perda ou roubo do cartão de crédito
+## Em caso de perda ou roubo do cartão de crédito
 
 De acordo com a legislação em vigor, em caso de perda, furto ou falsificação do cartão, o titular não pode ser responsabilizado por utilizações abusivas nos seguintes casos:
 

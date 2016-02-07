@@ -4,13 +4,13 @@ title: Crédito automóvel mais barato
 categories: [automovel]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Quem depende de transportes públicos está constantemente em sobressalto devido há existência de greve. Por isso, hoje em dia ter um automóvel é uma necessidade e não um meio de ostentação. No entanto, mesmo sendo um carro em segunda mão, não é fácil reunir todo o dinheiro necessário para pagar um automóvel a pronto. Assim sendo é cada vez maior o número de pessoas que opta por fazer um crédito automóvel. E claro que, quanto mais barato e vantajoso for o crédito, mais interesse desperta. Não acha?
 
 Por isso, se está a pensar em adquirir um automóvel, este é o artigo ideal para si.
 
-##Como encontrar crédito automóvel mais barato
+## Como encontrar crédito automóvel mais barato
 
 Em tempos de crise não é fácil ter disponível o capital necessário para um automóvel. Embora não seja propriamente o caminho mais indicado, o crédito automóvel é quase sempre a solução encontrada para conseguir realizar tal aquisição.
 
@@ -30,7 +30,7 @@ Outro ponto que deve ter em consideração é se os termos do seguro lhe trazem 
 
 Depois de analisar todas estas componentes estará apto para encontrar o crédito automóvel mais barato para a sua situação.
 
-##Recorra sempre a simulações
+## Recorra sempre a simulações
 
 Já sabe que antes de se decidir por alguma solução deve sempre fazer primeiro uma simulação. Uma vez que esse pequeno passo pode ser essencial para revelar alguns pormenores que numa primeira fase lhe podem passar ao lado.
 

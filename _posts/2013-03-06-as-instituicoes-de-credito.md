@@ -4,9 +4,9 @@ title: As instituições de crédito
 categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##As instituições de crédito são operadores económicos que, exactamente, têm por objecto o exercício do crédito.
+## As instituições de crédito são operadores económicos que, exactamente, têm por objecto o exercício do crédito.
 
 Denominam-se entre nós instituições de crédito, o mesmo sucedendo, coincidente ou aproximadamente, noutros idiomas: credit institutions, em inglês; entidades de crédito em castelhano; enti credit izi, embora efemeramente (do decreto-lei n.° 481/92, de 14 de Dezembro, até ao decreto-lei n.° 385/93, de 1 de Setembro, que passou a adoptar simplesmente «banche»), em italiano; établissements de crédit, em francês; Kreditwesen, em alemão.
 

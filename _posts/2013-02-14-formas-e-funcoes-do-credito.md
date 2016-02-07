@@ -4,7 +4,7 @@ title: Formas e funções do crédito
 categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Não tencionamos evidentemente, longe disso, fornecer aqui uma lista exaustiva das múltiplas formas de concessão de crédito. Será até mais o que fica por dizer do que aquilo que referimos expressamente; mas compreende-se decerto que as opções a que obriga qualquer mera introdução, como esta, implicam sempre o sacrifício de vários aspectos muito importantes e mesmo actuais.
 

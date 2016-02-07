@@ -4,13 +4,13 @@ title: O percurso do crédito &mdash; do pedido à assinatura do contrato
 categories: [pessoal, automovel, habitacao, consolidado]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Antes de pedir o crédito
+## Antes de pedir o crédito
 
 Celebrar um contrato de crédito implica assumir obrigações que se prolongam por numerosos meses, ou mesmo anos. Assim, antes de tudo, convém reflectir.
 
-##Ponderar na necessidade de crédito
+## Ponderar na necessidade de crédito
 
 É necessário ponderar bem na necessidade de crédito antes de optar por este meio de financiamento. Será sempre útil, antes de mais, colocar as seguintes questões:
 
@@ -29,15 +29,15 @@ Muitas vezes, procuramos saber que parte dos rendimentos pode ser afectado ao re
 
 A troca de ideias ajudará a chegar a uma decisão  financeiramente realista e mais satisfatória para todos.
 
-##Comparação entre as diferentes condições de crédito
+## Comparação entre as diferentes condições de crédito
 
 Antes de fazer um contrato de crédito, é necessário  informar-se e comparar as diferentes ofertas:
 
-##Quem oferece?: Bancos e outras instituições de crédito ao  consumo (SFAC)
+## Quem oferece?: Bancos e outras instituições de crédito ao  consumo (SFAC)
 
 O crédito ao consumo pode ser concedido pelos bancos ou pelas Sociedades Financeiras para Aquisição a Crédito (SFAC). As SFAC são instituições de crédito que têm por objecto o financiamento da aquisição a crédito de bens e serviços.
 
-##Que tipos ou formas de crédito estão disponíveis no mercado?
+## Que tipos ou formas de crédito estão disponíveis no mercado?
 
 É necessário comparar as diferentes formas de crédito e  escolher aquela que é a mais adaptada às suas necessidades.
 
@@ -47,7 +47,7 @@ Deve ser dada ao consumidor uma informação exacta e completa sobre o crédito 
 
 Assim sendo, em caso de dúvida solicite esclarecimentos.
 
-##O contrato de crédito
+## O contrato de crédito
 
 O contrato de crédito deve ser reduzido a escrito e assinado pelos contraentes (devedor e credor), sendo obrigatoriamente entregue um exemplar ao devedor no momento da sua assinatura.
 

@@ -4,7 +4,7 @@ title: Crédito à produção e crédito ao consumo
 categories: pessoal
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Conquanto, à primeira vista, o crédito ao consumo pareça não colher justificação ou suporte económico, por ausência de fonte produtora dos créditos com que se há-de fazer o reembolso (pois o que se obteve a crédito foi exactamente para consumir), o certo é que também essa forma de crédito constitui um auxiliar do desenvolvimento da produção. Basta pensar nas vendas a prestações de bens de consumo - consumo não instantâneo mas duradouro - técnica que dos Estados Unidos se propagou há muito ao continente europeu.
 

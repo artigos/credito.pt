@@ -4,15 +4,15 @@ title: Contas-jovem, aspectos positivos e negativos
 categories: pessoal
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Aspectos positivos
+## Aspectos positivos
 
 Uma conta à ordem permite ao jovem adquirir mais independência e corresponde muitas vezes à preocupação dos pais em ensiná-lo a gerir o seu próprio dinheiro.
 
 Se for correctamente utilizada, a conta à ordem pode efectivamente constituir para o jovem um instrumento de aprendizagem duma sã gestão orçamental.
 
-##Aspectos negativos
+## Aspectos negativos
 
 Não basta ensinar um jovem a levantar dinheiro é necessário ensiná-lo a ter uma gestão rigorosa da conta bancária (controlo dos extractos de conta, acompanhamento do saldo da conta) e também incentivá-lo a poupar. Será que os cartões de débito oferecidos nas contas-jovem garantem esta aprendizagem, ou serão apenas um símbolo, uma espécie de livre trânsito para a entrada no mundo dos adultos ?
 

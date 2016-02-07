@@ -4,7 +4,7 @@ title: Ferramentas online e software de investimento
 categories: [pessoal]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 As ferramentas online e software de investimento permitem aos investidores seguir os seus investimentos de uma forma mais precisa e organizada.
 
@@ -12,7 +12,7 @@ São ferramentas úteis para investidores de nível médio ou avançado, contudo
 
 Iremos dar-lhe a conhecer algumas das ferramentas disponíveis online e alguns softwares de investimento disponíveis no mercado.
 
-##Qual é a diferença entre ferramentas online e software de investimento?
+## Qual é a diferença entre ferramentas online e software de investimento?
 
 A diferença principal é o nível de detalhe. As ferramentas online estão disponíveis na internet, na maioria das vezes gratuitamente. As 5 ferramentas online mais recomendadas são as seguintes:
 
@@ -22,7 +22,7 @@ A diferença principal é o nível de detalhe. As ferramentas online estão disp
 * [Investing in Bonds](http://investinginbonds.com): Recurso para investidores em obrigações (valores mobiliários representativos de um empréstimo a médio ou a longo prazos).
 * O E-brokers também oferece ferramentas de investimento.Estas incluem o [ETrade](https://us.etrade.com/e/t/home), [Vanguard](http://www.vanguard.com) (para clientes), e os serviços online da [Morgan Stanley](http://www.morganstanley.com) (para clientes).
 
-##Software de Investimento
+## Software de Investimento
 
 A maioria dos softwares de investimento incluem todas as ferramentas que pode encontrar online, com algumas funcionalidades que o ajudaram a organizar e visualizar a informação.
 
@@ -38,6 +38,6 @@ Alguns softwares recomendados:
 * [Button Trader](http://www.buttontrader.com/index.asp): Fácil de utilizar, preço baixo e excelente suporte fazem deste software um excelente investimento.Mais recomendado para investidores activos.
 * [TeleChart Gold](http://www.tc2000.com): Este software é mais indicado para profissionais, oferece uma grande variedade de ferramentas bastante úteis.
 
-##Conclusão
+## Conclusão
 
 Poderá-lhe compensar se procurar por ferramentas online e software de investimento. Encontre a melhor combinação que vá de encontro ao que pretende e boa sorte nos seus investimentos!
