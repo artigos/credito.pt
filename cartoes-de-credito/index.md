@@ -18,5 +18,9 @@ overview: true
 
 <span class="latest-article">Cartão de crédito recomendado:</span>
 <div class="sponsor">
-  <iframe src="http://action.metaffiliation.com/trk.php?maff=N421314C321144" width="300" height="250" frameborder="0" scrolling="no"></iframe>
+    <script type="text/javascript">
+        var netlucro_width=300;
+        var netlucro_height=250;
+    </script>
+    <script type="text/javascript" src="http://nucleo.netlucro.com/ad/22544/1471/27414"></script>
 </div>

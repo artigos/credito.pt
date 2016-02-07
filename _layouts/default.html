@@ -7,6 +7,26 @@
 
     <section>
       {{ content }}
+
+      {% if page.categories contains 'cartao' %}
+        <h2 style="margin-bottom: 5px;">Quer um cartão de crédito?</h2>
+        <p>Nós recomendados o seguinte:</p>
+        <script type="text/javascript">
+          var netlucro_width=300;
+          var netlucro_height=250;
+        </script>
+        <script type="text/javascript" src="http://nucleo.netlucro.com/ad/22544/1471/27414"></script>
+      {% else %}
+        <h2 style="margin-bottom: 5px;">Quer uma proposta sem qualquer custo?</h2>
+        <p>Opte por um crédito à sua medida, experimente:</p>
+        <script type="text/javascript">
+          var netlucro_width=300;
+          var netlucro_height=250;
+        </script>
+        <script type="text/javascript" src="http://nucleo.netlucro.com/ad/22544/1032/28323"></script>
+      {% endif %}
+      <br/>
+
       {% include ad_block.html %}
       <hr/>
       {% include addthis.html %}
