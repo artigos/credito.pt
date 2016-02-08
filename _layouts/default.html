@@ -8,7 +8,15 @@
     <section>
       {{ content }}
 
-      {% if page.categories contains 'cartao' %}
+      {% if page.categories contains 'consolidado' %}
+        <h2 style="margin-bottom: 5px;">Quer consolidar o seu crédito?</h2>
+        <p>Nós recomendados o seguinte:</p>
+        <script type="text/javascript">
+          var netlucro_width=300;
+          var netlucro_height=250;
+        </script>
+        <script type="text/javascript" src="http://nucleo.netlucro.com/ad/22544/1255/29633"></script>
+      {% elsif page.categories contains 'cartao' %}
         <h2 style="margin-bottom: 5px;">Quer um cartão de crédito?</h2>
         <p>Nós recomendados o seguinte:</p>
         <script type="text/javascript">
