@@ -1,7 +1,15 @@
 <header>
   <h1><a href="/">Crédito.pt</a></h1>
   <p><em>Informe-se antes de pedir</em></p>
-  {% include adsense.html %}
+
+  <div class="header-banner-large">
+    {% include adsense.html %}
+  </div>
+
+  <div class="header-banner-small">
+    {% include ad_block.html %}
+  </div>
+
   <ul>
     <li><a href="{{ site.url }}/credito-pessoal">Crédito Pessoal</a></li>
     <li><a href="{{ site.url }}/credito-automovel">Crédito Automóvel</a></li>
