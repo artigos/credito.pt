@@ -1,0 +1,13 @@
+---
+layout: default
+title: Como evitar dívidas com o seu cartão de crédito?
+categories: [cartao]
+---
+
+# {{ page.title }}
+
+O segredo para evitar dívidas com o seu cartão de crédito é fazer uma utilização razoável do mesmo e pagar o máximo possível a cada extrato. O cartão de crédito é uma excelente ferramenta se for bem utilizado, isto porque além de ter um período – na maioria dos casos de mais de um mês – sem juros é também a única forma de pagamento aceite a nível internacional. O cartão de crédito bem utilizado só traz benefícios, contudo tem de ter muita atenção porque os juros são elevados, e os montantes em dívida caso não sejam pagos atempadamente podem escalar muito rapidamente.
+
+Uma boa dica é utilizar o cartão de crédito como se fosse um cartão multibanco, como sabe, se não tem dinheiro na conta o cartão multibanco não lhe vai possibilitar o levantamento de dinheiro… faça o mesmo com o cartão de crédito, utilize apenas o cartão caso tenha dinheiro para cobrir a despesa. Imprevistos acontecem, agora com a crise, o desemprego pode acontecer numa altura inesperada e nessa altura não irá receber o vencimento que estava à espera e não vai conseguir pagar a dívida do cartão de crédito. Por isso, jogue pelo seguro.
+
+Se tiver alguma questão, deixe um comentário que irei fazer o meu melhor para o esclarecer. O cartão de crédito é sem dúvida uma das maravilhas da sociedade atual, contudo pode tornar-se num pesadelo caso não seja prudentemente utilizado.
