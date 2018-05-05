@@ -10,31 +10,17 @@
 
       {% if page.categories contains 'consolidado' %}
         <h2 style="margin-bottom: 5px;">Quer consolidar o seu crédito?</h2>
-        <p>Nós recomendados o seguinte:</p>
-        <script type="text/javascript">
-          var netlucro_width=300;
-          var netlucro_height=250;
-        </script>
-        <script type="text/javascript" src="//nucleo.netlucro.com/ad/22544/1255/29633"></script>
+        <p>Nós recomendados o seguinte.</p>
       {% elsif page.categories contains 'cartao' %}
         <h2 style="margin-bottom: 5px;">Quer um cartão de crédito?</h2>
-        <p>Nós recomendados o seguinte:</p>
-        <script type="text/javascript">
-          var netlucro_width=300;
-          var netlucro_height=250;
-        </script>
-        <script type="text/javascript" src="//nucleo.netlucro.com/ad/22544/1471/27414"></script>
+        <p>Nós recomendados o seguinte.</p>
       {% else %}
         <h2 style="margin-bottom: 5px;">Quer uma proposta sem qualquer custo?</h2>
-        <p>Opte por um crédito à sua medida, experimente:</p>
-        <script type="text/javascript">
-          var netlucro_width=300;
-          var netlucro_height=250;
-        </script>
-        <script type="text/javascript" src="//nucleo.netlucro.com/ad/22544/1032/28323"></script>
+        <p>Opte por um crédito à sua medida, experimente.</p>
       {% endif %}
       <br/>
-
+      {% include adsense.html %}
+      <br/>
       {% include ad_block.html %}
       <hr/>
       <div class="disqus">
