@@ -55,8 +55,3 @@ Indicamos abaixo os principais seguros, mas recomendamos que antes de solicitar 
 ## Como aderir ao cartão de crédito Barclaycard
 
 Se pretende aderir ao cartão de crédito Barclaycard, poderá fazê-lo clicando no banner abaixo e preenchendo o formulário de contato.
-
-<div class="sponsor">
-  <iframe src="http://action.metaffiliation.com/trk.php?maff=N421314C321144" width="300" height="250" frameborder="0" scrolling="no"></iframe>
-</div>
-

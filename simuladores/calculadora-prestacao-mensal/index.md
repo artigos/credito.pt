@@ -38,4 +38,4 @@ Instruções:
 5. Preencha o período de carência caso deseje ficar alguns anos apenas a pagar juros, máximo 5 anos. Caso contrário coloque 0;
 6. Clique em “Calcular Prestação Mensal”.
 
-Brevement
+Brevemente

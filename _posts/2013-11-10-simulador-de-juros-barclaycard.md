@@ -11,5 +11,3 @@ Criamos para sua comodidade um simulador de juros para o popular cartão de cr�
 Não se esqueça que terá de amortizar no mínimo 9 euros ou 3% do total da dívida. Relembramos também que o Barclaycard oferece até 50 dias sem juros de crédito.
 
 Simulador de juros mensais do Barclaycard pode ser consultado aqui brevemente.
-
-[Adira já ao cartão Barclaycard >](http://action.metaffiliation.com/suivi.php?mclic=S421314C321121){:rel=nofollow}
