@@ -16,7 +16,6 @@ overview: true
 
 <hr/>
 
-<span class="latest-article">Cartão de crédito recomendado:</span>
 <div class="sponsor">
     {% include adsense.html %}
 </div>

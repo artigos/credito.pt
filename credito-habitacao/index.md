@@ -13,3 +13,9 @@ overview: true
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+<hr/>
+
+<div class="sponsor">
+    {% include adsense.html %}
+</div>
