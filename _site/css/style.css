@@ -104,6 +104,14 @@ header h1{
   margin: 0;
 }
 
+header .header-banner-large {
+  display: block;  
+}
+
+header .header-banner-small {
+  display: none;  
+}
+
 strong {
   color:#222;
   font-weight:700;
@@ -144,7 +152,7 @@ section ul.index {
 
 section ul.index li {
   display: block;
-  font-size: 22px;
+  font-size: 18px;
 }
 
 section ul.index li a:hover{
@@ -206,6 +214,14 @@ footer {
     position:absolute;
     right:50px;
     top:52px;
+  }
+
+  header .header-banner-large {
+    display: none;  
+  }
+
+  header .header-banner-small {
+    display: block;  
   }
 }
 
