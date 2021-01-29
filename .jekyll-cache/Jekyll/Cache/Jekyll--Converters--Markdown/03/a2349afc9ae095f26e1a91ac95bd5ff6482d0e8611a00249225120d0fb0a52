@@ -1,0 +1,16 @@
+I"�<h1 id="simulação-geral-de-crédito-utilizando-o-método-francês">Simulação geral de crédito, utilizando o método Francês</h1>
+
+<h2 id="simulação-geral-de-crédito-utilizando-o-método-francês-para-calcular-as-respetivas-prestações-de-acordo-com-o-período-escolhido">Simulação geral de crédito, utilizando o método Francês para calcular as respetivas prestações de acordo com o período escolhido.</h2>
+
+<p>No cálculo do custo do empréstimo a seguinte fórmula é utilizada:</p>
+
+<blockquote>
+  <p>M = E [(i (1 + i)n) / ((1 + i)n – 1)]</p>
+</blockquote>
+
+<p>Neste caso, ‘M’ é a mensalidade ou prestação total, ‘E’ é o valor total do empréstimo, ‘i’ é a taxa de juro e ‘n’ é o período.</p>
+
+<p>A calculadora produz também uma tabela para todo o período onde as prestações, taxas de juro e amortizações são ajustadas de acordo com os dados que inseriu.</p>
+
+<p>Brevemente.</p>
+:ET
