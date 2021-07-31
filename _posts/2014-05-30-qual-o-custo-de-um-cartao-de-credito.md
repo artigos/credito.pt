@@ -54,7 +54,7 @@ A TAEG (Taxa Anual Efectiva Global) é o conjunto de todos os custos associados 
 
 Mas existem determinados cartões que estão livres do pagamento desta anuidade, permitindo ao cliente que pague apenas os juros associados à utilização do montante disponível em crédito.
 
-Se pretender obter mais informações acerca desta modalidade, veja o nosso artigo sobre o [cartão de crédito sem anuidade]({% post_url 2014-05-28-cartao-de-credito-sem-anuidade %}).
+Se pretender obter mais informações acerca desta modalidade, veja o nosso artigo sobre o [cartão de crédito sem anuidade]({% post_url 2014-05-28-cartoes-de-credito-sem-anuidade %}).
 
 ## Considerações Finais
 

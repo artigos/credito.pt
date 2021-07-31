@@ -50,7 +50,7 @@ Estes cartões estão livres do pagamento anual que está implícito pelo sua ut
 
 A anuidade e os juros são coisas completamente diferentes, o cartão pode não possuir uma anuidade, mas poderá pagar juros associados à utilização do montante em crédito.
 
-Veja o nosso artigo sobre os [cartões de crédito sem anuidade]({% post_url 2014-05-28-cartao-de-credito-sem-anuidade %}), para obter mais informações sobre esta matéria.
+Veja o nosso artigo sobre os [cartões de crédito sem anuidade]({% post_url 2014-05-28-cartoes-de-credito-sem-anuidade %}), para obter mais informações sobre esta matéria.
 
 ## Considerações Finais
 

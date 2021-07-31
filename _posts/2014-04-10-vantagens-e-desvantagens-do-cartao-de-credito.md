@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vantagens e desvantagens dos cartões de crédito
+title: Vantagens e desvantagens do cartão de crédito
 categories: [cartao]
 ---
 
@@ -10,7 +10,7 @@ Os cartões de crédito são cada vez mais utilizados, uma vez que são vistos c
 
 Os cartões de crédito dão a possibilidade a qualquer pessoa de comprar aquela peça de roupa que tanto queria, ou encher a sua despensa quando não existe dinheiro na sua conta diária, contudo é importante que tenha sempre presente as condições do contrato, por exemplo, quando gasta o crédito que tem no seu cartão, precisa garantir que no dia em que ele será debitado da sua conta, o mesmo valor se encontra lá, senão os juros serão de tal forma elevados que acabará por não compensar as compras que fez.
 
-## Vantagens dos cartões de crédito
+## Vantagens do cartão de crédito
 
 * Facilidade: Quando utilizado com cuidado e precaução, este género de cartões poderão facilitar bastante a sua vida;
 * Segurança: Estes cartões de crédito permitem andar com um elevado valor monetário na sua mala, sem que para isso tenha de andar com a carteira repleta de notas, evitando assim perdas ou roubos dessa quantia. Uma vez que o seu dinheiro está guardado nesse cartão, caso perca ou lhe roubem a carteira, basta cancelar o cartão mantendo assim o seu dinheiro intacto;

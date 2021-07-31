@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cartão de crédito sem anuidade
+title: Cartões de crédito sem anuidade
 categories: [cartao]
 ---
 
