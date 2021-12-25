@@ -14,3 +14,5 @@ A consolidação do crédito é importante também em casos onde um imprevisto a
 O crédito consolidado irá fazer com que a sua mensalidade seja reduzida com a desvantagem de que irá ter um montante maior em dívida por um prazo de pagamento alargado. Isto por outras palavras quer dizer que vai pagar menos por mês mas durante mais tempo e com um montante em dívida maior, é esta a essência do crédito consolidado.
 
 Contudo, como diz o velho ditado “ninguém dá nada a ninguém”, portanto o que terá a fazer é analisar bem a sua situação e decidir se precisa de consolidar os seus créditos ou não. Existem no mercado diversas empresas que oferecem a consolidação de créditos, uma das mais conhecidas é a Partners Finances onde poderá fazer de forma gratuita uma simulação.
+
+<a href="https://action.metaffiliation.com/trk.php?mclic=P417644C32123D1"><img src="https://action.metaffiliation.com/trk.php?maff=P417644C32123D1"></a>

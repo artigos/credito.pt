@@ -51,3 +51,5 @@ No site da Partners Finances existe uma opção designada de “cálculo de endi
 Caso tenha mais alguma dúvida pode esclarece-la ligando para o 707 101 500. Através desse número poderá falar diretamente com um funcionário da partners finances que o poderá ajudar com as suas questões.
 
 O que acha deste crédito consolidado? Parece-lhe uma boa solução? Partilhe connosco a sua opinião.
+
+<a href="https://action.metaffiliation.com/trk.php?mclic=P417644C32123D1"><img src="https://action.metaffiliation.com/trk.php?maff=P417644C32123D1"></a>
